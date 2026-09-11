@@ -12,7 +12,7 @@
 ### Core Features
 *   Interactive menu supporting `buy`, `fill`, `take`, `clean`, `remaining`, and `exit` commands.
 *   Dynamic resource tracking for water, milk, coffee beans, disposable cups, and accumulated money.
-*   A safety cleaning mechanism that stops purchases when zero coffees are left, requiring user maintenance[.
+*   A safety cleaning mechanism that stops purchases when zero coffees are left, requiring user maintenance.
 *   Input handling that gracefully catches mismatch exceptions when users are restocking the machine.
 *   Automated resource validation to ensure enough ingredients are present before brewing a beverage.
 
@@ -21,11 +21,11 @@
 ### Drink Menu 
 The application supports a set menu of drinks with specific ingredient requirements. 
 
-| Drink Type | Water (ml) | Milk (ml) | Beans (g) | Cost ($) | Source |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Espresso** | 250 | 0 | 16 | 4 |[cite: 1] |
-| **Latte** | 350 | 75 | 20 | 7 |[cite: 1] |
-| **Cappuccino** | 200 | 100 | 12 | 6 |[cite: 1] |
+| Drink Type | Water (ml) | Milk (ml) | Beans (g) | Cost ($)
+| :--- | :--- | :--- | :--- | :--- |
+| **Espresso** | 250 | 0 | 16 | 4 | 
+| **Latte** | 350 | 75 | 20 | 7 |
+| **Cappuccino** | 200 | 100 | 12 | 6 |
 
 ---
 
