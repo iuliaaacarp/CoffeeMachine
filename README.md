@@ -10,11 +10,11 @@
 ---
 
 ### Core Features
-*   Interactive menu supporting `buy`, `fill`, `take`, `clean`, `remaining`, and `exit` commands[cite: 2].
-*   Dynamic resource tracking for water, milk, coffee beans, disposable cups, and accumulated money[cite: 3].
-*   A safety cleaning mechanism that stops purchases when zero coffees are left, requiring user maintenance[cite: 3].
-*   Input handling that gracefully catches mismatch exceptions when users are restocking the machine[cite: 3].
-*   Automated resource validation to ensure enough ingredients are present before brewing a beverage[cite: 3].
+*   Interactive menu supporting `buy`, `fill`, `take`, `clean`, `remaining`, and `exit` commands.
+*   Dynamic resource tracking for water, milk, coffee beans, disposable cups, and accumulated money.
+*   A safety cleaning mechanism that stops purchases when zero coffees are left, requiring user maintenance[.
+*   Input handling that gracefully catches mismatch exceptions when users are restocking the machine.
+*   Automated resource validation to ensure enough ingredients are present before brewing a beverage.
 
 ---
 
