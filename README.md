@@ -1,7 +1,11 @@
 # Java Virtual Coffee Machine ☕
 
 ### Overview
-This repository contains a console-based Java application that simulates the daily operations of a coffee machine. Users can interact with the machine through a continuous command-line interface loop to purchase drinks, manage inventory, and perform routine machine maintenance[cite: 2]. The logic is divided across three main files: `CoffeeMachine.java` for the main loop[cite: 2], `Machine.java` for the inventory and brewing logic[cite: 3], and `Coffee.java` for the exact drink definitions[cite: 1].
+*   This repository contains a console-based Java application that simulates the daily operations of a coffee machine.
+*   Users can interact with the machine through a continuous command-line interface loop to purchase drinks, manage inventory, and perform routine machine maintenance.
+*   `CoffeeMachine.java` handles the main loop.
+*   `Machine.java` manages the inventory and brewing logic.
+*   `Coffee.java` contains the exact drink definitions.
 
 ---
 
